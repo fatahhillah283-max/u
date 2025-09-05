@@ -1,0 +1,154 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 8.0.2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: m+3jXZ9qPSVDn9UzQBpAYfyVPA9tmmuJR+xUHTQlQj0=
+
+Name: assets/fonts/font.ttf
+SHA-256-Digest: HK69r0P/XHaFTO74EVmn60nD2hh8lBx+B3543HZfhaY=
+
+Name: classes.dex
+SHA-256-Digest: KCFwlc3/aBsyOa9CKxzVtmqSu1v35KncIzYimdls2CE=
+
+Name: lib/arm64-v8a/libstub.so
+SHA-256-Digest: PlnQZoA9WpYF+7MfwFtoApnyogjpAd10Wuu5Kx8yKCg=
+
+Name: resources.arsc
+SHA-256-Digest: F9UdHoU7zzVjCqc5RlMj0IWtav09myVd/VYNQ3pmDuY=
+
+Name: ۦ/۟
+SHA-256-Digest: w9bwooFYFiK+WCr3V3AE2dYmqK13HeZ9dlocieIkcFE=
+
+Name: ۦ/۟۟.xml
+SHA-256-Digest: 8d+Pi4rToCrTajaY7DiEAyhgPcmJHCxzj6vdqdSMDLU=
+
+Name: ۦ/۟۠.xml
+SHA-256-Digest: 7Hz2x/YnWtstgptYyynjkem2zN32KuLRUq7zPqg+yfU=
+
+Name: ۦ/۟ۡ.xml
+SHA-256-Digest: fL6JUpZxA+4QKOvxrwtMSby9TwsD7F6q+4kw/fZmQtc=
+
+Name: ۦ/۟ۢ.xml
+SHA-256-Digest: z4yx7mEIPw2ByQEWQlU9WN0VlcbadyTCM5FK6h8rln8=
+
+Name: ۦ/ۣ۟.xml
+SHA-256-Digest: 0XkqVDN5uQLqQvRXpglpnbcRhm4IeTXzLA2k/sv7iok=
+
+Name: ۦ/۟ۤ.xml
+SHA-256-Digest: wEumJuOLq0pUGYtoO5KJwU4BDlu/QtP/kpTbaB0pHNo=
+
+Name: ۦ/۟ۥ.xml
+SHA-256-Digest: VI/kfY6cTglbCR1zLqgIeX1y4vbrp/Cx3HlWlUrbObQ=
+
+Name: ۦ/۟ۦ.xml
+SHA-256-Digest: yWFtqjeddCoyjT1SLrRJE45iFFzNIIPf/1W5L3UXdzc=
+
+Name: ۦ/۟ۧ.xml
+SHA-256-Digest: niljaHBLnKy4pY9Pduaqow3ksYUANbFWSgMGqq8MB4s=
+
+Name: ۦ/۟ۨ.xml
+SHA-256-Digest: QJJRDYzSwwWiSZVs1nIbOJ6G7WBEji7coSMHa6R50ok=
+
+Name: ۦ/۠.xml
+SHA-256-Digest: MYcEUUHLjEf4FByB1xKGiDuSJmnGKbEboXhvS2bROrc=
+
+Name: ۦ/۠۟.xml
+SHA-256-Digest: GiRZxWb2Ea8XRuxMYqYHPfnhvY9tXblmfe+2j+YOQ20=
+
+Name: ۦ/۠۠.xml
+SHA-256-Digest: HUzlkMHqXULyTn2TOZ6uUfSMsHjxvQgd8oye6iT0kkw=
+
+Name: ۦ/۠ۡ.xml
+SHA-256-Digest: kfbmQ402/9TUIdzYa89vW1uxyWZES1EUhHIWURFuoAA=
+
+Name: ۦ/۠ۢ
+SHA-256-Digest: aj7AlMbl0IgPZcurZRTrAoR2tRiCARx7ixig1nPkPgI=
+
+Name: ۦ/ۣ۠.xml
+SHA-256-Digest: FJd1+Sg5h59ZPJ1XgZXuihM1ryRg06Xn/3CBi9TXtDc=
+
+Name: ۦ/۠ۤ.xml
+SHA-256-Digest: fvBwkdTd+G7UqKRy6Xd1oO38xr9+pYWUuTNphxgjzIo=
+
+Name: ۦ/۠ۥ.xml
+SHA-256-Digest: Pv376O5ePiYES8yMXb0rpbMKtV6WT4oqq5JCl4yF4mo=
+
+Name: ۦ/۠ۦ.xml
+SHA-256-Digest: n4CIvaqTib8MP4cVqs6RnYbMFvMCkbt/H4X2D/L54vI=
+
+Name: ۦ/۠ۧ.xml
+SHA-256-Digest: Gcu+bnrrxif7NZ1ykSxC/qYVHXTbftMRYvbadw8aLcY=
+
+Name: ۦ/۠ۨ.xml
+SHA-256-Digest: ijam7peY1z8OTGfQQOapFwffrRW71+lgWeOTWn1FZdQ=
+
+Name: ۦ/ۡ.xml
+SHA-256-Digest: bHXETnqpsQIfIKmUYYfzLqom/OiFsRbavEgmLprqE4A=
+
+Name: ۦ/ۡ۟.xml
+SHA-256-Digest: FeUnIyVrWWAVUQGxvYxtgb3eey9lSnJlk+6D4IW1+3Q=
+
+Name: ۦ/ۡ۠.xml
+SHA-256-Digest: CN15k3BJdr8SIanS4hq8q83zuFVmFXs3WHiJj2PnaVo=
+
+Name: ۦ/ۡۡ.xml
+SHA-256-Digest: VFNWPwsoUBKbLeaJaxpBmQovQvsSJH9gkuhzCp4Siyw=
+
+Name: ۦ/ۡۢ.xml
+SHA-256-Digest: /J/1OYCpWUD10YPv3pebp8YHyUySZRCskDw42W+cMeI=
+
+Name: ۦ/ۣۡ.xml
+SHA-256-Digest: RM7qidxrM8qLVRULNg1ygdt2wx6aN/9/NV9oSqM1oOg=
+
+Name: ۦ/ۡۤ.xml
+SHA-256-Digest: Xd8Yw7Sd9dlKfXx/JDGX1+/D/YyhfgO5sizEZ63KXXk=
+
+Name: ۦ/ۡۥ.xml
+SHA-256-Digest: tj2FJW7V46XGYQvxyWpuSpdx44hx1XxmfoBZVnilkhA=
+
+Name: ۦ/ۡۦ.xml
+SHA-256-Digest: ArMid7k2lGxYMcvjzlvtfMHJjsdgvv3EPEr2S1aXTVg=
+
+Name: ۦ/ۡۧ.xml
+SHA-256-Digest: iCyJ/n9BHf4Q/Vssrhv/Gag3TKe7I/s7reJ7M7b/GgE=
+
+Name: ۦ/ۡۨ.xml
+SHA-256-Digest: bHXETnqpsQIfIKmUYYfzLqom/OiFsRbavEgmLprqE4A=
+
+Name: ۦ/ۢ.xml
+SHA-256-Digest: AQ6m0imfBvd0VDjWZvKiRFcZI9sgeoRsr6c8n3pTsXc=
+
+Name: ۦ/ۢ۟.xml
+SHA-256-Digest: wquVf1kDS5XUJ9Ve0BItQmPlUJ57f3+J/t+D9dhPCE8=
+
+Name: ۦ/ۢ۠.xml
+SHA-256-Digest: 7VP45gcEwA25UGahnAcszhcKNZhDN3HoSV17JIZLOpk=
+
+Name: ۦ/ۢۡ.xml
+SHA-256-Digest: 7yOHW8quRMnlDlMbSqkur2mYoj+dkfVNwwzkp3i8FR8=
+
+Name: ۦ/ۢۢ.xml
+SHA-256-Digest: ZwftIcvbE6TnifN85yANxO2QpLQR5QRWPpAMdMegt80=
+
+Name: ۦ/ۣۢ.xml
+SHA-256-Digest: ABO1yoA1Y9LXc1v+lpZJejeuv5fGSzwsFQ8Cy0m6gSg=
+
+Name: ۦ/ۣ.xml
+SHA-256-Digest: D+A+CgfPmgfwJwqLaJKtpaG4Mta3p35F6zfKnnWcWQI=
+
+Name: ۦ/ۤ.xml
+SHA-256-Digest: zwmY0KEWQdIJ8NP8owDIBZM2vB0TsCRFQiGZ7aGYyyw=
+
+Name: ۦ/ۥ
+SHA-256-Digest: WatxeJRufnQPMVjR3bge6FeK18DpH2YyztESyKO0MfY=
+
+Name: ۦ/ۦ
+SHA-256-Digest: XScn6GAgtMJ3Cz0Gp+SBMd0Z+3Y8Z3xUsW518iDlKcM=
+
+Name: ۦ/ۧ.xml
+SHA-256-Digest: 8rTaeOO52KC0F10vA40YJHt0cmGZ2dAPgdYQRAZxB+c=
+
+Name: ۦ/ۨ.xml
+SHA-256-Digest: 1O6jvMMoQnXGLwrXYSl7eSL3JasXEZJS3ZuSYQLsqxA=
+
